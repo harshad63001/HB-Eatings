@@ -23,7 +23,7 @@ function App() {
       <main>
         <Meals />
       </main>
-      <a href="https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjgsPi-2rL5AhUCed4KHW8-A9cQPAgI" className="link">Wanna see the code</a>
+      <a href="#" className="link">Wanna see the code</a>
     </CartProvider>
   );
 }
