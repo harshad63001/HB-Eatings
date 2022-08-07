@@ -7,7 +7,7 @@ import HeaderCartButton from './HeaderCartButton'
 const Header = (props) => {
     return <Fragment>
         <header className={classes.header}>
-            <h1>BreakFast with HB😀</h1>
+            <h1>HB Eatings😀</h1>
             <HeaderCartButton onClick={props.onShowCart}/>
         </header>
         <div className={classes['main-image']}>

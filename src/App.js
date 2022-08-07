@@ -23,7 +23,7 @@ function App() {
       <main>
         <Meals />
       </main>
-      <a href="#" className="link">Wanna see the code</a>
+      <a href="https://github.com/harshad63001/HB-BreakFast-app" className="link">Wanna see the code</a>
     </CartProvider>
   );
 }
